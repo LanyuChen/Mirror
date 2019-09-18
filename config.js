@@ -47,3 +47,13 @@ module.exports = {
     }
   ]
 }
+{
+  "mirrors": [
+    {
+      // project name for now.sh
+      "key": "wikipedia",
+      "proxied": "https://en.wikipedia.org/",
+      "proxying": "google.upupming.site"
+    }
+  ]
+}
